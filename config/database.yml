@@ -14,7 +14,7 @@ development:
   database: graphql_practice
   host: 10.103.1.8
   user: root
-  password: hola123
+  password: xxxxx
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
