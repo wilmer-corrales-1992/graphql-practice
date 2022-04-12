@@ -12,8 +12,8 @@ default: &default
 development:
   <<: *default
   database: graphql_practice
-  host: 10.103.1.8
-  user: root
+  host: hostname
+  user: username
   password: xxxxx
 
 # Warning: The database defined as "test" will be erased and
